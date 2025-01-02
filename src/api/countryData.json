@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFact": "Japan is home to the world's oldest monarchy, with a lineage that dates back over 1,500 years."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 213993437,
+      "interestingFact": "Brazil is the largest country in South America and is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1393409038,
+      "interestingFact": "India is the world's largest democracy, with over 1.3 billion people."
+    },
+    {
+      "id": 4,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67081000,
+      "interestingFact": "France is the world's most visited country, known for its art, culture, and landmarks like the Eiffel Tower."
+    },
+    {
+      "id": 5,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 104123000,
+      "interestingFact": "Egypt is home to the ancient Pyramids of Giza, which are considered one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 6,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26050000,
+      "interestingFact": "Australia is the only country that is also a continent, and it has more species of venomous animals than any other place on Earth."
+    },
+    {
+      "id": 7,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38008005,
+      "interestingFact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers."
+    },
+    {
+      "id": 8,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60260000,
+      "interestingFact": "Italy is known for its rich history, art, and cuisine, and is home to the Vatican City, the world's smallest independent state."
+    },
+    {
+      "id": 9,
+      "countryName": "South Korea", 
+      "capital": "Seoul",
+      "population": 51329899,
+      "interestingFact": "South Korea is known for its rapid technological advancements and is the birthplace of the globally popular K-pop music industry."
+    },
+    {
+      "id": 10,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331893745,
+      "interestingFact": "The United States is the third-largest country in the world by land area and is a global leader in technology, culture, and economics."
+    },
+    {
+      "id": 11,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83149300,
+      "interestingFact": "Germany is the birthplace of the automobile and home to the famous brands BMW, Mercedes-Benz, and Volkswagen."
+    },
+    {
+      "id": 12,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128933000,
+      "interestingFact": "Mexico is home to the ancient Mayan and Aztec civilizations and is known for its vibrant culture, food, and festivals."
+    },
+    {
+      "id": 13,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFact": "Russia is the largest country in the world by land area, spanning over 17 million square kilometers."
+    },
+    {
+      "id": 14,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 68207114,
+      "interestingFact": "The UK is home to the world’s first modern railway, and its monarchy is the oldest in the world, dating back over 1,000 years."
+    },
+    {
+      "id": 15,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+      "population": 59308690,
+      "interestingFact": "South Africa is known as the 'Rainbow Nation' because of its diverse cultures, languages, and ethnicities, with 11 official languages."
+    }
+]
+  
